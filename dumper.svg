@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169.039" height="116.501" viewBox="0 0 169.039 116.501">
+  <g id="Group_156" data-name="Group 156" transform="translate(-19494.18 368.501)">
+    <g id="Group_151" data-name="Group 151" transform="translate(19482.68 -350.039)">
+      <path id="Path_90" data-name="Path 90" d="M18201.916,1051.11h36.7l12.4,2.527,6.439,11.637,89.639.145,3.014-4.712,12.191,50.179-5.754-2.594h-31.836l-11.824-8.808h-17.451l-16.842,18.757h-20.719l-.418-24.213-11.785-10.2v-26.384h-43.76Z" transform="translate(-18183.947 -1047.695)" fill="#0a0" stroke="#000" stroke-width="3"/>
+      <path id="Path_91" data-name="Path 91" d="M18186.6,1086.57v-13.334h4.068v-18.918h40.016v27.914l9.363,3.165v15.993l-2.65,1.173-9.76-10.587h-21.424l-10.289,12.138h-9.324Z" transform="translate(-18173.602 -1039.657)" fill="#0a0" stroke="#0b0b0b" stroke-width="3"/>
+      <g id="Group_9" data-name="Group 9" transform="translate(21.855 55.85)">
+        <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="21.38" cy="21.095" rx="21.38" ry="21.095"/>
+        <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(12.543 11.973)" fill="#030708" stroke="#e8e8e8" stroke-width="4">
+          <circle cx="9.122" cy="9.122" r="9.122" stroke="none"/>
+          <circle cx="9.122" cy="9.122" r="7.122" fill="none"/>
+        </g>
+      </g>
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="19.871" height="16.288" transform="translate(21.855 20.692)"/>
+      <g id="Group_148" data-name="Group 148" transform="translate(100.781 55.85)">
+        <ellipse id="Ellipse_13-2" data-name="Ellipse 13" cx="21.38" cy="21.095" rx="21.38" ry="21.095"/>
+        <g id="Ellipse_14-2" data-name="Ellipse 14" transform="translate(12.543 11.973)" fill="#030708" stroke="#e8e8e8" stroke-width="4">
+          <circle cx="9.122" cy="9.122" r="9.122" stroke="none"/>
+          <circle cx="9.122" cy="9.122" r="7.122" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_335" data-name="Path 335" d="M19171.717,547.592l-5.766-11.765-39.219-4.7,20.215-8.186h19l21.77-8.564,9.545,5.875,19.174,5.279,36.668,5.6,2.822,16.463Z" transform="translate(387.373 -882.88)" fill="#1c1c1c"/>
+  </g>
+</svg>
